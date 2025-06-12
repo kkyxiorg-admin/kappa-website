@@ -35,7 +35,14 @@ plugins:
 #theme: minima
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: auto
+  social_links:
+    - title: View the source for this page on GitHub!
+      icon: github
+      url: "https://github.com/kkyxiorg-admin/kappa-website"
+    - title: View our Instagram page
+      icon: instagram
+      url: "https://instagram.com/kkpsi_xi"
 
 
 # Exclude from processing.
