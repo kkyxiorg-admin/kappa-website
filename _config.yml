@@ -21,7 +21,7 @@
 title: KKY Xi Chapter Website
 email: kkyxi.org-admin@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Xi chapter of Kappa Kappa Psi at the Colorado School of Mines
+  Xi Chapter of Kappa Kappa Psi at the Colorado School of Mines
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "www.kkyxi.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
